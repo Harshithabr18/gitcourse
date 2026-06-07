@@ -1,2 +1,2 @@
 # gitcourse
-hello!
+hello! this is harsh
